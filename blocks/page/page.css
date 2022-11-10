@@ -1,6 +1,7 @@
 .page {
   font-family: 'Inter', 'Arial', sans-serif;
   max-width: 1280px;
+  margin: 0 auto;
   background-color: #2a2f2c;
   color: white;
   box-sizing: border-box;

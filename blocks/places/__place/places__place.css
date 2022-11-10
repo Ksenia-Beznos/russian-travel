@@ -26,6 +26,16 @@
   }
 }
 
+@media screen and (max-width: 600px) {
+  .places__place {
+    max-width: 600px;
+    display: grid;
+    gap: 32px;
+    grid-template-rows: 1fr;
+    grid-template-columns: auto;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .places__place {
     max-width: 320px;
