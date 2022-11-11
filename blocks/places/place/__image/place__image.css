@@ -1,17 +1,17 @@
-.places__image {
+.place__image {
   max-width: 100%;
   max-height: 100%;
 }
 
 @media screen and (max-width: 768px) {
-  .places__image {
+  .place__image {
     max-height: 340px;
   }
 }
 
 
 @media screen and (max-width: 600px) {
-  .places__image {
+  .place__image {
     max-height: 100%;
   }
 }
